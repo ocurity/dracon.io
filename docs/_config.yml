@@ -1,1 +1,23 @@
+title: Dracon
+# email: dracon+io@ocurity.com
+description: the open source ASPM
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://dracon.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: dracon
+# github_username:  dracon
+
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+#   - jekyll-remote-theme # add this line to the plugins list if you already have one
+#   - jekyll-feed
+
+github:
+  repository_url: https://github.com/ocurity/dracon
+  repository_nwo: ocurity/dracon
+  owner_url: ocurity.com
+
+logo: /assets/img/logo.png
+favicon: /docs/assets/img/logo.png
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
